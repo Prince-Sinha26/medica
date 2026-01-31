@@ -86,4 +86,14 @@ button:hover {
     border-radius: 5px;
     font-weight: bold;
 }
+@media (max-width: 480px){
+    .container{
+        margin: 15px;
+        padding: 16px;
+    }
+}
+
+
+
+
 
